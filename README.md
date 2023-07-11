@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Felipe Lanari</h1>
 <h3 align="center">The full stack developer from Argentina, you´re looking to hire</h3>
 
+<p align="left">
+I currently live in Buenos Aires, Argentina, I´ve always been inclined to offering solutions in the form of services and experiences. I enjoy team-working and getting to know new and different people. There´s a whole variety of technologies and possibilities to learn out there and I´m looking forward for projects that help me keep learning and growing as a professional.
+</p>
+
 - 🔭 I’m currently working on **@selva.nomade ´s virtual store**
 
 - 🌱 I’m currently learning **Figma, Next,..**
